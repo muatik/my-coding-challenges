@@ -4,6 +4,12 @@ import java.util.Random;
 
 public class usage {
 	public static void main(String[] args) {
+//		GenericFixedArrayStack<String> genStack = new GenericFixedArrayStack<>(10);
+//		genStack.push("das");
+//		genStack.push("123");
+//		genStack.pop();
+//		genStack.push(123); // compile time error; types mismatches.
+		
 		int size = 1000000 * 4; // 4 millions
 		
 		LinkedListStack ll = new LinkedListStack();
