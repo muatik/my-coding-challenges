@@ -4,11 +4,27 @@ import java.util.Random;
 
 public class usage {
 	public static void main(String[] args) {
+		
+//		GENERIC FIXED ARRAY STACK USAGE
+//		-----------------------------
 //		GenericFixedArrayStack<String> genStack = new GenericFixedArrayStack<>(10);
 //		genStack.push("das");
 //		genStack.push("123");
 //		genStack.pop();
 //		genStack.push(123); // compile time error; types mismatches.
+	
+//		ITERABLE GENERIC FIXED ARRAY STACK USAGE
+//		-----------------------------
+//		IterableGenericFixedArrayStack<Integer> iterableStack;
+//		iterableStack = new IterableGenericFixedArrayStack<>(5);
+//		iterableStack.push(4);
+//		iterableStack.push(2);
+//		iterableStack.push(9);
+//		for (Integer item : iterableStack) {
+//			System.out.println(item);
+//		}
+		
+		
 		
 		int size = 1000000 * 4; // 4 millions
 		

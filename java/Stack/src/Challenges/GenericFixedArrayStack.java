@@ -2,8 +2,8 @@ package Challenges;
 
 public class GenericFixedArrayStack<Item> {
 	
-	private Item[] stack;
-	private int last = -1;
+	Item[] stack;
+	int last = -1;
 	
 	public GenericFixedArrayStack(int size) {
 		stack = (Item[]) new Object[size];
