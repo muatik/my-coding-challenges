@@ -9,33 +9,41 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |Determine if a string is a permutation of another  | [Challenge] (http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/permutation/permutation_challenge.ipynb) | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-array-permutationof.ipynb) | - | -
 |Determine if a string is a rotation of another  | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_challenge.ipynb) | - | - | -
 |Compress a string   | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/compress/compress_challenge.ipynb)| [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-string-compress.ipynb) | - | -
-|Reverse strings in a string  | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb) | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-string.ipynb) | - | -
+|Reverse strings in a string  | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb) | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-string.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/java/Strings/src/Challenges/ReverseString.java) | -
 |Implement a hash table  | - | - | - | -
 |Find the first non-repeated character in a string   | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-find-non-repeative.ipynb) | - | -
 |Remove specified characters in a string | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-remove-character-from-string.ipynb) | - | -
 |Reverse words in a string   | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-words.ipynb) | - | -
-|Convert a string to an integer  | - | - | - | -
-|Convert an integer to a string  | - | - | - | -
+
+
+#### Stacks and Queues
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-| 3 sum  |  TODO |  link here | link here | link here
-| Reverse string  |  TODO |  link here | link here | link here
-| Union  |  TODO |  link here | link here | link here
-| Linked list stack  |  TODO |  link here | link here | link here
-| Fixed size array stack  |  TODO |  link here | link here | link here
-| Resizable array stack  |  TODO |  link here | link here | link here
+| Implement a stack using a linked list  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Stack/src/Challenges) | -
+| Implement a stack using a fixed array  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Stack/src/Challenges) | -
+| Implement a stack using a resizable array  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Stack/src/Challenges) | -
+| Implement a queue using a linked list  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/queues/src/Challenges) | -
+| Implement a queue using a fixed array  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/queues/src/Challenges) | -
+| Implement a queue using a resizable array  |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/queues/src/Challenges) | -
 
-Stacks and Queues
+#### Sorting
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-| Implement a stack using a linked list  |  TODO |  link here | link here | link here
-| Implement a stack using a fixed array  |  TODO |  link here | link here | link here
-| Implement a stack using a resizable array  |  TODO |  link here | link here | link here
-| Implement a queue using a linked list  |  TODO |  link here | link here | link here
-| Implement a queue using a fixed array  |  TODO |  link here | link here | link here
-| Implement a queue using a resizable array  |  TODO |  link here | link here | link here
+| Implement an insertion sorting .  | - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Sorting/src/Challenges) | -
+| Implement a selection sorting .  | - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Sorting/src/Challenges) | -
+| Implement a shell sorting .  | - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Sorting/src/Challenges) | -
+
+
+#### Trees and Graphs
+
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+| Given an array A of integers, find any 3 of them that sum to 0.  | [Definition](https://en.wikipedia.org/wiki/3SUM) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/3sum/src/Challenges) | -
+| Implement Union-Find algorithm |  [Definition](http://algs4.cs.princeton.edu/15uf/) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/union/src/UnionFind) | -
+| Find diameter length of nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | - 
+
 
 https://github.com/donnemartin/interactive-coding-challenges
 
