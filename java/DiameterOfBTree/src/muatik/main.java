@@ -21,7 +21,7 @@ public class main {
 		tree.insert("d");
 		tree.insert("f");
 		tree.insert("g");
-		
+//		
 		tree.insert("m10");
 		tree.insert("k10");
 		tree.insert("k9");
@@ -36,10 +36,10 @@ public class main {
 		tree.insert("p4");
 		tree.insert("p8");
 		tree.insert("p9");
-		
+//		
 		
 		BTree.display(tree);
-		FarthestNodes r = FarthestNodes.get(tree);
+		GreatestDistance r = GreatestDistance.get(tree);
 		System.out.println(
 				"greatest distance: " + r.diameter 
 				+ ", left: " + ((BTree) r.left).key 

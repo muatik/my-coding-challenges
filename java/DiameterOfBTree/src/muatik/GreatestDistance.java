@@ -1,11 +1,11 @@
 package muatik;
 
-public class FarthestNodes {
+public class GreatestDistance {
 	Object left, right; // the farthest left/right node.
 	int distanceLeft, distanceRight; // distance to the farthest left/right node.
 	int diameter; // path from left to right
 	
-	public FarthestNodes(Object left, int distanceLeft, Object right, int distanceRight, int pathLength) {
+	public GreatestDistance(Object left, int distanceLeft, Object right, int distanceRight, int pathLength) {
 		this.left = left;
 		this.distanceLeft = distanceLeft;
 		this.right = right;
@@ -38,10 +38,10 @@ public class FarthestNodes {
 		diameter++;
 	}
 	
-	public static FarthestNodes get(BTree tree) {
-		FarthestNodes leftSub  = null;
-		FarthestNodes rightSub = null;
-		FarthestNodes r = null;
+	public static GreatestDistance get(BTree tree) {
+		GreatestDistance leftSub  = null;
+		GreatestDistance rightSub = null;
+		GreatestDistance r = null;
 		
 		if (tree.left !=null) 
 			leftSub = get(tree.left);
@@ -56,7 +56,7 @@ public class FarthestNodes {
 					> Math.max(leftSub.diameter, rightSub.diameter)	
 				) 
 			{
-				r = new FarthestNodes(
+				r = new GreatestDistance(
 						leftSub.getFarthestNode(),
 						leftSub.getMaxDistance() + 1,
 						rightSub.getFarthestNode(), 
@@ -77,7 +77,7 @@ public class FarthestNodes {
 			}
 		} else {
 			// tree has neither left node nor right node. 
-			r = new FarthestNodes(
+			r = new GreatestDistance(
 					tree, // farthest left node
 					0, // distance to the left node
 					tree, // farthest right node
