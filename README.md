@@ -42,7 +42,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |---|---|---|---|---
 | Given an array A of integers, find any 3 of them that sum to 0.  | [Definition](https://en.wikipedia.org/wiki/3SUM) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/3sum/src/Challenges) | -
 | Implement Union-Find algorithm |  [Definition](http://algs4.cs.princeton.edu/15uf/) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/union/src/UnionFind) | -
-| Find diameter length of nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | - 
+| Find diameter length and nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | - 
 
 
 https://github.com/donnemartin/interactive-coding-challenges
