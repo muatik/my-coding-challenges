@@ -21,16 +21,16 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 
 | Challenge  | Description  |  Python | Java | C++ |
 |---|---|---|---|---|
-| Implement a sorted linked list | - | - | - | - 
-| Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | - 
-| Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | - 
-| Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | - 
-| Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | - 
-| Add two numbers whose digits are stored in a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/add_reverse/add_reverse_challenge.ipynb) |  - | - | - 
-| Find the start of a linked list loop | [Challenge]() | - | - | - 
-| Determine if a linked list is a palindrome | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/palindrome/palindrome_challenge.ipynb) | - | - | - 
-| Implement a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/linked_list/linked_list_challenge.ipynb) | - | - | - 
-| Determine if a list is cyclic or acyclic | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) | -  | - | - 
+| Implement a sorted linked list | - | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/SortedLinkedList/)
+| Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | -
+| Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | -
+| Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | -
+| Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | -
+| Add two numbers whose digits are stored in a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/add_reverse/add_reverse_challenge.ipynb) |  - | - | -
+| Find the start of a linked list loop | [Challenge]() | - | - | -
+| Determine if a linked list is a palindrome | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/palindrome/palindrome_challenge.ipynb) | - | - | -
+| Implement a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/linked_list/linked_list_challenge.ipynb) | - | - | -
+| Determine if a list is cyclic or acyclic | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) | -  | - | -
 
 
 #### Stacks and Queues
@@ -59,7 +59,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |---|---|---|---|---
 | Given an array A of integers, find any 3 of them that sum to 0.  | [Definition](https://en.wikipedia.org/wiki/3SUM) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/3sum/src/Challenges) | -
 | Implement Union-Find algorithm |  [Definition](http://algs4.cs.princeton.edu/15uf/) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/union/src/UnionFind) | -
-| Find diameter length and nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | - 
+| Find diameter length and nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | -
 
 
 https://github.com/donnemartin/interactive-coding-challenges
