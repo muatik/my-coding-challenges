@@ -16,6 +16,23 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |Reverse words in a string   | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-words.ipynb) | - | -
 
 
+
+### Linked Lists
+
+| Challenge  | Description  |  Python | Java | C++ |
+|---|---|---|---|---|
+| Implement a sorted linked list | - | - | - | - 
+| Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | - 
+| Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | - 
+| Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | - 
+| Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | - 
+| Add two numbers whose digits are stored in a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/add_reverse/add_reverse_challenge.ipynb) |  - | - | - 
+| Find the start of a linked list loop | [Challenge]() | - | - | - 
+| Determine if a linked list is a palindrome | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/palindrome/palindrome_challenge.ipynb) | - | - | - 
+| Implement a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/linked_list/linked_list_challenge.ipynb) | - | - | - 
+| Determine if a list is cyclic or acyclic | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) | -  | - | - 
+
+
 #### Stacks and Queues
 
 | Challenge  | Description  |  Python | Java | C++
