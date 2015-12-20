@@ -21,8 +21,8 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 
 | Challenge  | Description  |  Python | Java | C++ |
 |---|---|---|---|---|
-| Implement a sorted linked list | - | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/SortedLinkedList/)
-| Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | -
+| Implement a sorted linked list | - | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/SortedLinkedList/)
+| Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/RemoveDuplicates)
 | Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | -
 | Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | -
 | Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | -
