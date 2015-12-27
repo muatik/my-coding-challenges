@@ -23,7 +23,8 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |---|---|---|---|---|
 | Implement a sorted linked list | - | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/SortedLinkedList/)
 | Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/RemoveDuplicates)
-| Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | -
+| Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/cpp/LinkedList/FindKthLastElement)
+
 | Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | -
 | Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | -
 | Add two numbers whose digits are stored in a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/add_reverse/add_reverse_challenge.ipynb) |  - | - | -
@@ -66,8 +67,8 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-| Implement depth-first search (pre-, in-, post-order) on a tree |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_dfs/dfs_challenge.ipynb) |  - |  - |  - |
-| Implement breadth-first search on a tree | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_bfs/bfs_challenge.ipynb) |  - |  - |  - |
+| Implement depth-first search (pre-, in-, post-order) on a tree |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_dfs/dfs_challenge.ipynb) |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Trees/src/muatik) |  - |
+| Implement breadth-first search on a tree | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_bfs/bfs_challenge.ipynb) |  - |  [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/Trees/src/muatik) |  - |
 | Determine the height of a tree | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_height/height_challenge.ipynb) |  - |  - |  - |
 | Create a binary search tree with minimal height from a sorted array | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/bst_min/bst_min_challenge.ipynb) |  - |  - |  - |
 | Find diameter length and nodes of a binary tree |  - |  - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/DiameterOfBTree/src/muatik) | - |
