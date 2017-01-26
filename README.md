@@ -88,6 +88,13 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 | Check if a binary tree is binary search tree | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) |  - |  - |  - |
 | Add a challenge | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) |  - |  - |  - |
 
+### 10 Days of Statistics
+https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+| Day 4: Binomial Distribution I  | [Definition](https://www.hackerrank.com/challenges/s10-binomial-distribution-1) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_4_Binomial_Distribution.ipynb) | - | -
+
 
 https://github.com/donnemartin/interactive-coding-challenges
 
