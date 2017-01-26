@@ -94,7 +94,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
 | Day 4: Binomial Distribution I  | [Definition](https://www.hackerrank.com/challenges/s10-binomial-distribution-1) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_4_Binomial_Distribution.ipynb) | - | -
-
+| Day 4: Binomial Distribution II  | [Definition](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_4_Binomial_Distribution_II.ipynb) | - | -
 
 https://github.com/donnemartin/interactive-coding-challenges
 
