@@ -98,6 +98,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 | Day 4: Geometric Distribution I  | [Definition](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_4_Geometric_Distribution_I.ipynb) | - | -
 | Day 5: Poisson Distribution  I  | [Definition](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Poisson_Distribution_I.ipynb) | - | -
 | Day 5: Poisson Distribution  II  | [Definition](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Poisson_Distribution_II.ipynb) | - | -
+| Day 5: Normal Distribution  I  | [Definition](https://www.hackerrank.com/challenges/s10-normal-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Normal_Distribution_I.ipynb) | - | -
 
 
 https://github.com/donnemartin/interactive-coding-challenges
