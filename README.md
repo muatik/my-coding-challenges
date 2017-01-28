@@ -24,7 +24,6 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 | Implement a sorted linked list | - | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/SortedLinkedList/)
 | Remove duplicates from a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/remove_duplicates/remove_duplicates_challenge.ipynb) | - | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/cpp/LinkedList/RemoveDuplicates)
 | Find the kth to last element of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/kth_to_last_elem/kth_to_last_elem_challenge.ipynb)| - | - | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/cpp/LinkedList/FindKthLastElement)
-
 | Delete a node in the middle of a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/delete_mid/delete_mid_challenge.ipynb) | - | - | -
 | Partition a linked list around a given value | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/partition/partition_challenge.ipynb) | - | - | -
 | Add two numbers whose digits are stored in a linked list | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/add_reverse/add_reverse_challenge.ipynb) |  - | - | -
@@ -100,6 +99,14 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 | Day 5: Poisson Distribution  II  | [Definition](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Poisson_Distribution_II.ipynb) | - | -
 | Day 5: Normal Distribution I  | [Definition](https://www.hackerrank.com/challenges/s10-normal-distribution-1/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Normal_Distribution_I.ipynb) | - | -
 | Day 5: Normal Distribution II  | [Definition](https://www.hackerrank.com/challenges/s10-normal-distribution-2/) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/10daysOfStatistics/Day_5_Normal_Distribution_II.ipynb) | - | -
+
+
+### Hackerrank Random
+https://www.hackerrank.com/challenges/
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+| Designer PDF Viewer | [Definition](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/hackerranrandom/pdf_viewer.ipynb) | - | -
+
 
 
 https://github.com/donnemartin/interactive-coding-challenges
