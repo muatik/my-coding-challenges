@@ -107,7 +107,7 @@ https://www.hackerrank.com/challenges/
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-| Designer PDF Viewer | [Definition](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/hackerranrandom/pdf_viewer.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/hackerrankRandom/DesignersPdfViewer) | -
+| Designer PDF Viewer | [Definition](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/python/hackerrankrandom/pdf_viewer.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/tree/master/java/hackerrankRandom/DesignersPdfViewer) | -
 
 
 
