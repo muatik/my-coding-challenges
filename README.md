@@ -10,11 +10,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |Determine if a string is a rotation of another  | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_challenge.ipynb) | - | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/java/IsRotation) | -
 |Compress a string   | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/compress/compress_challenge.ipynb)| [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-string-compress.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/java/CompressString) | -
 |Reverse strings in a string  | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb) | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-string.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/java/Strings/src/Challenges/ReverseString.java) | -
-|Implement a hash table  | - | - | - | -
 |Find the first non-repeated character in a string   | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-find-non-repeative.ipynb) | [Solution](https://github.com/muatik/my-coding-challenges/blob/master/java/FirstNonRepetatedChar) | -
-|Remove specified characters in a string | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-remove-character-from-string.ipynb) | - | -
-|Reverse words in a string   | - | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenge-reverse-words.ipynb) | - | -
-
 
 
 ### Linked Lists
