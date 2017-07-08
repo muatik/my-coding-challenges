@@ -14,7 +14,7 @@ public class Solution {
         }
     }
 
-    static class BTree<T extends Comparable>{
+    static class BTree<T extends Comparable> {
         Node<T> root;
 
         public void add(T d) {
@@ -28,7 +28,7 @@ public class Solution {
 
         public void addHelper(Node root, T d) {
 
-            if (d.compareTo(root.data) == -1 ) {
+            if (d.compareTo(root.data) == -1) {
                 if (root.left != null)
                     addHelper(root.left, d);
                 else
@@ -47,6 +47,12 @@ public class Solution {
             return sb.toString();
         }
 
+        public String printPostOrder() {
+            StringBuilder sb = new StringBuilder();
+            BTree.printPostOrder(this.root, sb);
+            return sb.toString();
+        }
+
         public static StringBuilder printPreOrder(Node node, StringBuilder sb) {
             if (node == null)
                 return sb;
@@ -59,7 +65,22 @@ public class Solution {
                 sb = printPreOrder(node.right, sb);
             return sb;
         }
+
+        public static StringBuilder printPostOrder(Node node, StringBuilder sb) {
+
+            if (node.left != null)
+                sb = printPostOrder(node.left, sb);
+
+            if (node.right != null)
+                sb = printPostOrder(node.right, sb);
+
+            if (node != null)
+                sb.append(node.data).append(" ");
+            return sb;
+        }
+
     }
+
 
     public static void main(String[] args) {
         BTree<Integer> t = new BTree<>();
@@ -71,6 +92,6 @@ public class Solution {
                 });
 
         assert (t.printPreOrder().equals("20 10 5 4 7 17 14 13 18 40 39 82 "));
-
+        assert (t.printPostOrder().equals("4 7 5 13 14 18 17 10 39 82 40 20 "));
     }
 }
