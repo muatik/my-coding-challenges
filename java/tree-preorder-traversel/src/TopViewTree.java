@@ -37,7 +37,5 @@ public class TopViewTree {
         if (sb.toString().equals("1 2 5 6"))
             throw new Exception("printing topView failed");
 
-
-
     }
 }
